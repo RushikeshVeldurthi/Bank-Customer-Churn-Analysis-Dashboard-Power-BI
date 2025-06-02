@@ -55,29 +55,32 @@ The churn.csv dataset includes the following key fields:
 
 🛠 Tech Stack
 
-Power BI Desktop (.pbix file)
+- Power BI Desktop (.pbix file)
 
-CSV file for raw data input
+- CSV file for raw data input
 
-DAX (Data Analysis Expressions) for calculated columns and measures
+- DAX (Data Analysis Expressions) for calculated columns and measures
 
-MP4 short video walkthrough for quick insights
+- MP4 short video walkthrough for quick insights
 
 📄 Requirements
 
-Windows OS with Power BI Desktop installed
+- Windows OS with Power BI Desktop installed
 
-No additional configuration required
+- No additional configuration required
 
 📂 Folder Structure
 
-.
+
 ├── bank_project.pbix        # Power BI report file
+
 ├── churn.csv                # Dataset used
+
 ├── demo_video.mp4           # 10-second demo walkthrough video
+
 ├── README.md                # Project documentation
 
 
 📅 Demo Video
 
-Download and watch the Power BI Walkthrough to see the dashboard in action.
+- Download and watch the Power BI Walkthrough to see the dashboard in action.
