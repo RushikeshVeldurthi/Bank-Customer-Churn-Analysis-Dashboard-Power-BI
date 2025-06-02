@@ -9,7 +9,7 @@ This repository contains a Power BI project analyzing customer churn data, usefu
 
 - churn.csv - Dataset used in the report
 
-- demo_video.mp4 - A 10-second demo video walkthrough (small and GitHub-compatible)
+- Bank Customer Churn Dashboard.mp4 - A demo video walkthrough (small and GitHub-compatible)
 
 📝 Dataset Overview
 
@@ -72,13 +72,13 @@ The churn.csv dataset includes the following key fields:
 📂 Folder Structure
 
 
-├── bank_project.pbix        # Power BI report file
+├── bank_project.pbix                         # Power BI report file
 
-├── churn.csv                # Dataset used
+├── churn.csv                                 # Dataset used
 
-├── demo_video.mp4           # 10-second demo walkthrough video
+├── Bank Customer Churn Dashboard.mp4         # demo walkthrough video
 
-├── README.md                # Project documentation
+├── README.md                                 # Project documentation
 
 
 📅 Demo Video
